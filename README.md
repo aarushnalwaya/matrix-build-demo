@@ -29,7 +29,7 @@ This results in:
 
 **2 operating systems × 3 Python versions = 6 test environments**
 
-7. Matrix Test Results
+Matrix Test Results
 Screenshot 1 — Six Matrix Jobs Completed Successfully
 
 <img width="1904" height="848" alt="Screenshot 2026-10-01 134622" src="https://github.com/user-attachments/assets/f17c20b6-3d0a-41b0-9057-e1c8f3c12850" />
